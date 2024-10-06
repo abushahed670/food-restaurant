@@ -10,3 +10,7 @@
     background-size: cover;
     background-position:center;
 }
+
+#hero .hero-content{
+    width: 685px;
+}
